@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 视频制作"
+  short_description: "用本地 H3 完成分镜生成、统一风格、后期合成与质检"
+  default_prompt: "Use $minimax-h3-video-production to turn my script into a complete multi-shot H3 video with consistent style, native dialogue, subtitles, mastering, and delivery export."
